@@ -1,0 +1,62 @@
+[
+  {
+    "id": "com-414f9954-f3d3-40bb-922f-a88aa12639b9",
+    "createdAt": "2026-08-28T08:39:43.493Z",
+    "updatedAt": "2026-08-28T08:39:43.493Z",
+    "opportunityId": "opp-f0bf9fca-2d4c-497d-9e29-734c686bce74",
+    "channel": "announcements",
+    "senderId": "use-b7182da6-5ab6-4c00-8899-3420a0f3913d",
+    "senderName": "Organizer Org",
+    "senderAvatar": "",
+    "senderRole": "Organizer",
+    "title": "Welcome to the Opportunity Community Hub! 🎉",
+    "content": "Applications are officially open for **Software Internship**. Join the discussion channel to ask questions and connect with fellow applicants.",
+    "likes": [],
+    "comments": []
+  },
+  {
+    "id": "com-e0ecb1d7-43ab-485f-8825-108bbdd87bc3",
+    "createdAt": "2026-08-28T13:38:06.986Z",
+    "updatedAt": "2026-08-28T13:38:06.986Z",
+    "opportunityId": "opp-a91f54af-f345-4267-88ef-6c52f33a3c38",
+    "channel": "announcements",
+    "senderId": "use-3833016f-cef7-4413-b0b3-85fce6b0078c",
+    "senderName": "marwadi university",
+    "senderAvatar": "",
+    "senderRole": "Organizer",
+    "title": "Welcome to the Opportunity Community Hub! 🎉",
+    "content": "Applications are officially open for **aleropth**. Join the discussion channel to ask questions and connect with fellow applicants.",
+    "likes": [],
+    "comments": []
+  },
+  {
+    "id": "com-81707cfd-c0ee-4032-b381-0541a4a1caa5",
+    "createdAt": "2026-08-29T02:47:46.279Z",
+    "updatedAt": "2026-08-29T02:47:46.279Z",
+    "opportunityId": "opp-a91f54af-f345-4267-88ef-6c52f33a3c38",
+    "channel": "discussion",
+    "senderId": "use-cd94d8e9-e334-4cf1-8a35-d7c35dfcc8c2",
+    "senderName": "yogesh",
+    "senderAvatar": "",
+    "senderRole": "Student Member",
+    "title": "",
+    "content": "hello there",
+    "likes": [],
+    "comments": []
+  },
+  {
+    "id": "com-c94ac6c4-e691-4f95-bc7b-d0af74717f6b",
+    "createdAt": "2026-08-29T05:10:17.396Z",
+    "updatedAt": "2026-08-29T05:10:17.396Z",
+    "opportunityId": "opp-a91f54af-f345-4267-88ef-6c52f33a3c38",
+    "channel": "discussion",
+    "senderId": "use-3833016f-cef7-4413-b0b3-85fce6b0078c",
+    "senderName": "marwadi university",
+    "senderAvatar": "",
+    "senderRole": "Organizer",
+    "title": "",
+    "content": "HELLO JUDGES",
+    "likes": [],
+    "comments": []
+  }
+]

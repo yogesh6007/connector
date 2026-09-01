@@ -1,0 +1,55 @@
+[
+  {
+    "id": "opp-f0bf9fca-2d4c-497d-9e29-734c686bce74",
+    "createdAt": "2026-08-28T08:39:43.486Z",
+    "updatedAt": "2026-08-28T13:34:25.692Z",
+    "orgId": "use-b7182da6-5ab6-4c00-8899-3420a0f3913d",
+    "orgName": "Organizer Org",
+    "orgLogo": "",
+    "title": "Software Internship",
+    "type": "Internship",
+    "description": "React/Node engineering intern opportunity.",
+    "responsibilities": [],
+    "requirements": [],
+    "location": "Remote",
+    "workMode": "Remote",
+    "duration": "12 Weeks",
+    "stipend": "Competitive Stipend",
+    "positionsCount": 1,
+    "deadline": "",
+    "skillsRequired": [],
+    "applicantsCount": 2,
+    "status": "Active"
+  },
+  {
+    "id": "opp-a91f54af-f345-4267-88ef-6c52f33a3c38",
+    "createdAt": "2026-08-28T13:38:06.974Z",
+    "updatedAt": "2026-08-29T05:09:59.573Z",
+    "orgId": "use-3833016f-cef7-4413-b0b3-85fce6b0078c",
+    "orgName": "marwadi university",
+    "orgLogo": "",
+    "title": "aleropth",
+    "type": "Competition",
+    "description": "alerppath",
+    "responsibilities": [
+      "Contribute to mission-critical engineering initiatives.",
+      "Participate in weekly agile syncs."
+    ],
+    "requirements": [
+      "Active university student status in CS or related STEM field."
+    ],
+    "location": "San Francisco, CA",
+    "workMode": "Hybrid",
+    "duration": "12 Weeks (Summer 2026)",
+    "stipend": "$9,500 / month + Housing",
+    "positionsCount": 3,
+    "deadline": "2026-04-15",
+    "skillsRequired": [
+      "Python",
+      "React",
+      "Docker"
+    ],
+    "applicantsCount": 2,
+    "status": "Active"
+  }
+]

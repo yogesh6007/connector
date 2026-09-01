@@ -1,0 +1,50 @@
+[
+  {
+    "id": "con-ccfaa8c1-1aba-448f-9f9c-08569438e9a0",
+    "createdAt": "2026-08-28T08:39:43.447Z",
+    "updatedAt": "2026-08-28T08:39:43.453Z",
+    "participants": [
+      "use-cbcf804c-e609-4fd4-8404-ee3f2206835c",
+      "use-97d62da4-291d-4c3f-8f20-e375b0bccb45"
+    ],
+    "lastMessage": "Hello, Student A!",
+    "lastMessageTime": "2026-08-28T08:39:43.451Z",
+    "messages": []
+  },
+  {
+    "id": "con-4467fddc-09b2-4ca3-872e-c1b50d319079",
+    "createdAt": "2026-08-29T02:47:55.033Z",
+    "updatedAt": "2026-08-29T04:42:48.797Z",
+    "participants": [
+      "use-cd94d8e9-e334-4cf1-8a35-d7c35dfcc8c2",
+      "use-3833016f-cef7-4413-b0b3-85fce6b0078c"
+    ],
+    "lastMessage": "HEY",
+    "lastMessageTime": "2026-08-29T04:42:48.796Z",
+    "messages": []
+  },
+  {
+    "id": "con-663d5b4f-9ac6-427a-bac3-31a397f0405f",
+    "createdAt": "2026-08-29T04:48:05.911Z",
+    "updatedAt": "2026-08-29T04:48:05.917Z",
+    "participants": [
+      "use-c2ac5a21-1811-4d13-8968-7106ae0ad76f",
+      "use-cd94d8e9-e334-4cf1-8a35-d7c35dfcc8c2"
+    ],
+    "lastMessage": "👋 Hi! I would love to connect with you.",
+    "lastMessageTime": "2026-08-29T04:48:05.915Z",
+    "messages": []
+  },
+  {
+    "id": "con-9db34ad7-7098-4425-8e51-56ce341782e3",
+    "createdAt": "2026-08-29T04:54:45.231Z",
+    "updatedAt": "2026-08-29T04:54:45.239Z",
+    "participants": [
+      "use-cd94d8e9-e334-4cf1-8a35-d7c35dfcc8c2",
+      "use-41e6bd4c-8be4-48c6-9585-137bfd6a907d"
+    ],
+    "lastMessage": "👋 Hi! I would love to connect with you.",
+    "lastMessageTime": "2026-08-29T04:54:45.237Z",
+    "messages": []
+  }
+]

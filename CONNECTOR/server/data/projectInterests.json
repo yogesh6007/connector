@@ -1,0 +1,23 @@
+[
+  {
+    "id": "pro-79f662e9-1ff5-4bfa-89b9-9f7fe12e4c6d",
+    "createdAt": "2026-08-29T05:21:34.825Z",
+    "updatedAt": "2026-08-29T05:21:34.825Z",
+    "projectId": "pro-9cd8f7f7-9197-4e9c-a915-1a5dc90294be",
+    "projectTitle": "AI-BASED TRAFFIC BASED COMPUTER VISION",
+    "ownerId": "use-c2ac5a21-1811-4d13-8968-7106ae0ad76f",
+    "studentId": "use-b5f5af4e-6b81-496e-8f1e-981ffcaab3a5",
+    "studentName": "AKMAL",
+    "studentAvatar": "",
+    "studentCollege": "mu",
+    "studentDegree": "it",
+    "studentHeadline": "it @ mu",
+    "studentSkills": [
+      "React",
+      "Python"
+    ],
+    "roleApplied": "Frontend Developer",
+    "message": "Hi STARTUP1, I'm interested in contributing to AI-BASED TRAFFIC BASED COMPUTER VISION. I have experience with Python, React and would love to collaborate on the team.",
+    "status": "pending"
+  }
+]

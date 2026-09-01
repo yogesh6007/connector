@@ -1,0 +1,29 @@
+[
+  {
+    "id": "con-547ccbc4-48c0-4680-b070-fc17a2a5c588",
+    "createdAt": "2026-08-28T08:39:43.376Z",
+    "updatedAt": "2026-08-28T08:39:43.376Z",
+    "userIds": [
+      "use-97d62da4-291d-4c3f-8f20-e375b0bccb45",
+      "use-cbcf804c-e609-4fd4-8404-ee3f2206835c"
+    ]
+  },
+  {
+    "id": "con-ef9944e0-8566-4926-976d-58b6279b291f",
+    "createdAt": "2026-08-29T02:48:07.623Z",
+    "updatedAt": "2026-08-29T02:48:07.623Z",
+    "userIds": [
+      "use-41e6bd4c-8be4-48c6-9585-137bfd6a907d",
+      "use-cd94d8e9-e334-4cf1-8a35-d7c35dfcc8c2"
+    ]
+  },
+  {
+    "id": "con-6a636d4d-f9d4-4e27-930d-111f08ac8041",
+    "createdAt": "2026-08-29T04:57:27.144Z",
+    "updatedAt": "2026-08-29T04:57:27.144Z",
+    "userIds": [
+      "use-c2ac5a21-1811-4d13-8968-7106ae0ad76f",
+      "use-cd94d8e9-e334-4cf1-8a35-d7c35dfcc8c2"
+    ]
+  }
+]

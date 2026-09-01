@@ -1,0 +1,76 @@
+[
+  {
+    "id": "pro-4843fcf8-6bf4-4094-a179-10455715bbd7",
+    "createdAt": "2026-08-28T13:33:46.346Z",
+    "updatedAt": "2026-08-28T13:33:46.346Z",
+    "title": "aleropath",
+    "description": "Have to make single student platform that helps student to connect , participate and get good opportunities.",
+    "domain": "Artificial Intelligence & ML",
+    "requiredSkills": [
+      "Python",
+      "React"
+    ],
+    "requiredRoles": [
+      "Frontend Developer",
+      "Backend Developer"
+    ],
+    "teamCapacity": 4,
+    "duration": "3 Months",
+    "workMode": "Remote",
+    "githubUrl": null,
+    "demoUrl": null,
+    "whyLookingForTeammates": "",
+    "status": "Recruiting",
+    "ownerId": "use-cd94d8e9-e334-4cf1-8a35-d7c35dfcc8c2",
+    "ownerName": "yogesh",
+    "ownerAvatar": "",
+    "ownerCollege": "m",
+    "members": [
+      {
+        "id": "use-cd94d8e9-e334-4cf1-8a35-d7c35dfcc8c2",
+        "name": "yogesh",
+        "role": "Project Lead",
+        "avatar": "",
+        "college": "m",
+        "joinedAt": "2026-08-28T13:33:46.341Z"
+      }
+    ]
+  },
+  {
+    "id": "pro-9cd8f7f7-9197-4e9c-a915-1a5dc90294be",
+    "createdAt": "2026-08-29T04:46:09.363Z",
+    "updatedAt": "2026-08-29T04:46:09.364Z",
+    "title": "AI-BASED TRAFFIC BASED COMPUTER VISION",
+    "description": "Traditional traffic signals generally operate using fixed timers. For example, a signal may remain green for 60 seconds whether there are 5 vehicles or 100 vehicles. This causes unnecessary waiting, congestion, fuel consumption, and pollution.\n\nThe proposed system uses cameras installed at traffic intersections to continuously capture video. A Computer Vision model detects and counts vehicles, identifies different vehicle types, estimates traffic density, detects violations, and dynamically adjusts traffic signal timing.",
+    "domain": "Artificial Intelligence & ML",
+    "requiredSkills": [
+      "Python",
+      "React"
+    ],
+    "requiredRoles": [
+      "Frontend Developer",
+      "Backend Developer"
+    ],
+    "teamCapacity": 4,
+    "duration": "3 Months",
+    "workMode": "Remote",
+    "githubUrl": null,
+    "demoUrl": null,
+    "whyLookingForTeammates": "",
+    "status": "Recruiting",
+    "ownerId": "use-c2ac5a21-1811-4d13-8968-7106ae0ad76f",
+    "ownerName": "STARTUP1",
+    "ownerAvatar": "",
+    "ownerCollege": "MARWADI",
+    "members": [
+      {
+        "id": "use-c2ac5a21-1811-4d13-8968-7106ae0ad76f",
+        "name": "STARTUP1",
+        "role": "Project Lead",
+        "avatar": "",
+        "college": "MARWADI",
+        "joinedAt": "2026-08-29T04:46:09.357Z"
+      }
+    ]
+  }
+]

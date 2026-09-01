@@ -1,0 +1,37 @@
+[
+  {
+    "id": "opp-b6213d36-4908-41f6-a1fc-d7bbef293673",
+    "createdAt": "2026-08-28T08:39:43.490Z",
+    "updatedAt": "2026-08-28T08:39:43.490Z",
+    "opportunityId": "opp-f0bf9fca-2d4c-497d-9e29-734c686bce74",
+    "orgId": "use-b7182da6-5ab6-4c00-8899-3420a0f3913d",
+    "orgName": "Organizer Org",
+    "name": "Software Internship Community",
+    "members": [
+      "use-b7182da6-5ab6-4c00-8899-3420a0f3913d"
+    ],
+    "channels": [
+      "announcements",
+      "discussion",
+      "resources"
+    ]
+  },
+  {
+    "id": "opp-90f93d61-3684-475c-bc58-7b5dfc19abbd",
+    "createdAt": "2026-08-28T13:38:06.979Z",
+    "updatedAt": "2026-08-29T03:56:25.673Z",
+    "opportunityId": "opp-a91f54af-f345-4267-88ef-6c52f33a3c38",
+    "orgId": "use-3833016f-cef7-4413-b0b3-85fce6b0078c",
+    "orgName": "marwadi university",
+    "name": "aleropth Community",
+    "members": [
+      "use-3833016f-cef7-4413-b0b3-85fce6b0078c",
+      "use-cd94d8e9-e334-4cf1-8a35-d7c35dfcc8c2"
+    ],
+    "channels": [
+      "announcements",
+      "discussion",
+      "resources"
+    ]
+  }
+]

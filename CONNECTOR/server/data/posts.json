@@ -1,0 +1,121 @@
+[
+  {
+    "id": "pos-2def2eb0-c126-4910-b8c3-0490a72f2f1e",
+    "createdAt": "2026-08-28T08:39:43.407Z",
+    "updatedAt": "2026-08-28T08:39:43.424Z",
+    "authorId": "use-cbcf804c-e609-4fd4-8404-ee3f2206835c",
+    "authorName": "Student B",
+    "authorAvatar": "",
+    "authorRole": "student",
+    "authorSubtitle": "Student Builder",
+    "content": "Test post for shares verification",
+    "postType": "general",
+    "media": null,
+    "projectAttachment": null,
+    "opportunityAttachment": null,
+    "likes": [],
+    "savedBy": [],
+    "sharedBy": [
+      "use-97d62da4-291d-4c3f-8f20-e375b0bccb45"
+    ],
+    "comments": []
+  },
+  {
+    "id": "pos-741d7019-b965-4df2-ac9e-de46b8fc1308",
+    "createdAt": "2026-08-28T08:39:43.496Z",
+    "updatedAt": "2026-08-28T08:39:43.496Z",
+    "authorId": "use-b7182da6-5ab6-4c00-8899-3420a0f3913d",
+    "authorName": "Organizer Org",
+    "authorAvatar": "",
+    "authorRole": "organizer",
+    "authorSubtitle": "Technology",
+    "content": "📢 **Software Internship**\n\nReact/Node engineering intern opportunity.\n\n**Type:** Internship · **Compensation:** Competitive Stipend · **Mode:** Remote\n\nCommunity discussions are live on CONNECTOR. Join the community and apply below!",
+    "postType": "opportunity",
+    "opportunityAttachment": {
+      "id": "opp-f0bf9fca-2d4c-497d-9e29-734c686bce74",
+      "title": "Software Internship",
+      "type": "Internship",
+      "stipend": "Competitive Stipend",
+      "location": "Remote",
+      "deadline": ""
+    },
+    "likes": [],
+    "savedBy": [],
+    "comments": []
+  },
+  {
+    "id": "pos-f04d3e08-c4a8-41b8-b9fb-f2e7f3b42813",
+    "createdAt": "2026-08-28T13:33:46.358Z",
+    "updatedAt": "2026-08-28T13:33:46.358Z",
+    "authorId": "use-cd94d8e9-e334-4cf1-8a35-d7c35dfcc8c2",
+    "authorName": "yogesh",
+    "authorAvatar": "",
+    "authorRole": "student",
+    "authorSubtitle": "b @ m",
+    "content": "🚀 **aleropath**\n\nHave to make single student platform that helps student to connect , participate and get good opportunities.\n\n**Looking for teammates:**\n• Python · React\n\n**Team:** 1 / 4 (Looking for 3 more teammates)",
+    "postType": "collaboration",
+    "projectAttachment": {
+      "id": "pro-4843fcf8-6bf4-4094-a179-10455715bbd7",
+      "title": "aleropath",
+      "domain": "Artificial Intelligence & ML",
+      "requiredSkills": [
+        "Python",
+        "React"
+      ],
+      "teamCurrent": 1,
+      "teamMax": 4
+    },
+    "likes": [],
+    "savedBy": [],
+    "comments": []
+  },
+  {
+    "id": "pos-ca57e74a-ee0a-4723-bf4d-cb836894d738",
+    "createdAt": "2026-08-28T13:38:06.995Z",
+    "updatedAt": "2026-08-28T13:38:06.995Z",
+    "authorId": "use-3833016f-cef7-4413-b0b3-85fce6b0078c",
+    "authorName": "marwadi university",
+    "authorAvatar": "",
+    "authorRole": "organizer",
+    "authorSubtitle": "Artificial Intelligence",
+    "content": "📢 **aleropth**\n\nalerppath\n\n**Type:** Competition · **Compensation:** $9,500 / month + Housing · **Mode:** Hybrid\n\nCommunity discussions are live on CONNECTOR. Join the community and apply below!",
+    "postType": "opportunity",
+    "opportunityAttachment": {
+      "id": "opp-a91f54af-f345-4267-88ef-6c52f33a3c38",
+      "title": "aleropth",
+      "type": "Competition",
+      "stipend": "$9,500 / month + Housing",
+      "location": "San Francisco, CA",
+      "deadline": "2026-04-15"
+    },
+    "likes": [],
+    "savedBy": [],
+    "comments": []
+  },
+  {
+    "id": "pos-0c1d46ae-6334-4f57-9720-aadef38af660",
+    "createdAt": "2026-08-29T04:46:09.383Z",
+    "updatedAt": "2026-08-29T04:46:09.383Z",
+    "authorId": "use-c2ac5a21-1811-4d13-8968-7106ae0ad76f",
+    "authorName": "STARTUP1",
+    "authorAvatar": "",
+    "authorRole": "student",
+    "authorSubtitle": "I.T. @ MARWADI",
+    "content": "🚀 **AI-BASED TRAFFIC BASED COMPUTER VISION**\n\nTraditional traffic signals generally operate using fixed timers. For example, a signal may remain green for 60 seconds whether there are 5 vehicles or 100 vehicles. This causes unnecessary waiting, congestion, fuel consumption, and pollution.\n\nThe proposed system uses cameras installed at traffic intersections to continuously capture video. A Computer Vision model detects and counts vehicles, identifies different vehicle types, estimates traffic density, detects violations, and dynamically adjusts traffic signal timing.\n\n**Looking for teammates:**\n• Python · React\n\n**Team:** 1 / 4 (Looking for 3 more teammates)",
+    "postType": "collaboration",
+    "projectAttachment": {
+      "id": "pro-9cd8f7f7-9197-4e9c-a915-1a5dc90294be",
+      "title": "AI-BASED TRAFFIC BASED COMPUTER VISION",
+      "domain": "Artificial Intelligence & ML",
+      "requiredSkills": [
+        "Python",
+        "React"
+      ],
+      "teamCurrent": 1,
+      "teamMax": 4
+    },
+    "likes": [],
+    "savedBy": [],
+    "comments": []
+  }
+]
