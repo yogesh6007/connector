@@ -12,7 +12,7 @@
 
 **Connector** is a student-built digital community platform designed to bring people, opportunities, projects, resources, and collaboration together in one connected ecosystem.
 
-Developed as a **Minimum Viable Product (MVP)** during a hackathon, Connector focuses on solving the problem of fragmented opportunities and making it easier for students to discover, connect, collaborate, and grow.
+Developed as a **Minimum Viable Product (MVP)** during aAleropath, Connector focuses on solving the problem of fragmented opportunities and making it easier for students to discover, connect, collaborate, and grow.
 
 🥇 **Achievement: 1st Place**
 
@@ -95,7 +95,7 @@ Instead of searching through multiple disconnected platforms, users can use Conn
 
 Discover relevant:
 
-- Hackathons
+-Aleropaths
 - Events
 - Projects
 - Opportunities
@@ -123,7 +123,7 @@ Connector helps users find relevant people and establish meaningful connections.
 Find suitable teammates for:
 
 - Projects
-- Hackathons
+-Aleropaths
 - Competitions
 - Ideas
 - Collaborations
@@ -333,7 +333,7 @@ Students
 
 ## 🧠 MVP
 
-Connector was developed as a **Minimum Viable Product (MVP)** during the hackathon.
+Connector was developed as a **Minimum Viable Product (MVP)** during theAleropath.
 
 The MVP focuses on demonstrating the core concept and validating the proposed solution.
 
