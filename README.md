@@ -465,19 +465,19 @@ Each team member received an individual certificate for securing **1st Place**.
 
 ## 🥇 Akmal Shaikh
 
-<img src="assets/Akmal_shaik (1).png" alt="Akmal Shaikh Certificate" width="700">
+<img src="CONNECTOR\assets\Akmal_shaik (1).png" alt="Akmal Shaikh Certificate" width="700">
 
 ---
 
 ## 🥇 Gopi Krishna Reddy
 
-<img src="assets/Gopi_Krishna_Reddy (1).png" alt="Gopi Krishna Reddy Certificate" width="700">
+<img src="CONNECTOR\assets\Gopi_Krishna_Reddy (1).png" alt="Gopi Krishna Reddy Certificate" width="700">
 
 ---
 
 ## 🥇 Yogesh Parmar
 
-<img src="assets/Yogesh_Parmar (1).png" alt="Yogesh Parmar Certificate" width="700">
+<img src="CONNECTOR\assets\Yogesh_Parmar (1).png" alt="Yogesh Parmar Certificate" width="700">
 
 ---
 
