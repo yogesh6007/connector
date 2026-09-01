@@ -282,13 +282,11 @@ This achievement reflects the team's focus on:
 
 **Built by a team of three students.**
 
-* **[Your Name]** — [Role]
-* **[Teammate 1]** — [Role]
-* **[Teammate 2]** — [Role]
+* **[Yogesh Parmar]** 
+* **[Akmal Shaik]**  
+* **[Gopi Krishna Reddy]** 
 
-Special thanks to the **faculty member**, organizers, mentors, and judges who supported and evaluated our project throughout the competition.
 
----
 
 ## 🤝 Contributing
 
